@@ -1,0 +1,1057 @@
+GET http://gems.rubyforge.org/latest_specs.4.8.gz                               
+302 Found                                                                       
+GET http://production.s3.rubygems.org/latest_specs.4.8.gz                       
+200 OK                                                                          
+GET http://gemcutter.org/latest_specs.4.8.gz                                    
+302 Found                                                                       
+GET http://production.s3.rubygems.org/latest_specs.4.8.gz                       
+200 OK                                                                          
+GET http://gems.rubyforge.org/quick/Marshal.4.8/activesupport-2.3.5.gemspec.rz                                                              
+302 Found                                                                                                                                   
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/activesupport-2.3.5.gemspec.rz                                                      
+200 OK                                                                                                                                      
+GET http://gemcutter.org/quick/Marshal.4.8/activesupport-2.3.5.gemspec.rz                                                                   
+connection reset after 4 requests, retrying                                                                                                 
+GET http://gemcutter.org/quick/Marshal.4.8/activesupport-2.3.5.gemspec.rz                                                                   
+302 Found                                                                                                                                   
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/activesupport-2.3.5.gemspec.rz                                                      
+200 OK                                                                                                                                      
+GET http://gems.rubyforge.org/quick/Marshal.4.8/rack-1.0.0.gemspec.rz                                                                       
+connection reset after 2 requests, retrying                                                                                                 
+GET http://gems.rubyforge.org/quick/Marshal.4.8/rack-1.0.0.gemspec.rz                                                                       
+302 Found                                                                                                                                   
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/rack-1.0.0.gemspec.rz                                                               
+200 OK                                                                                                                                      
+GET http://gems.rubyforge.org/quick/Marshal.4.8/rack-1.0.1.gemspec.rz                                                                       
+302 Found                                                                                                                                   
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/rack-1.0.1.gemspec.rz                                                               
+200 OK                                                                                                                                      
+GET http://gemcutter.org/quick/Marshal.4.8/rack-1.0.0.gemspec.rz                                                                            
+connection reset after 2 requests, retrying                                                                                                 
+GET http://gemcutter.org/quick/Marshal.4.8/rack-1.0.0.gemspec.rz                                                                            
+302 Found                                                                                                                                   
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/rack-1.0.0.gemspec.rz                                                               
+200 OK                                                                                                                                      
+GET http://gemcutter.org/quick/Marshal.4.8/rack-1.0.1.gemspec.rz                                                                            
+302 Found                                                                                                                                   
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/rack-1.0.1.gemspec.rz                                                               
+200 OK                                                                                                                                      
+Installing gem formtastic-0.9.8                                                                                                             
+Downloading gem formtastic-0.9.8.gem                                                                                                        
+GET http://gemcutter.org/gems/formtastic-0.9.8.gem                                                                                          
+302 Found                                                                                                                                   
+GET http://production.cf.rubygems.org/gems/formtastic-0.9.8.gem                                                                             
+200 OK                                                                                                                                      
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/MIT-LICENSE                                                                                    
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/README.textile                                                                                 
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/Rakefile                                                                                       
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/generators/form/USAGE                                                                          
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/generators/form/form_generator.rb                                                              
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/generators/form/templates/view__form.html.erb                                                  
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/generators/form/templates/view__form.html.haml                                                 
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/generators/formtastic/formtastic_generator.rb                                                  
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/generators/formtastic/templates/formtastic.css                                                 
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/generators/formtastic/templates/formtastic.rb                                                  
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/generators/formtastic/templates/formtastic_changes.css                                         
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/generators/formtastic_stylesheets/formtastic_stylesheets_generator.rb                          
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/lib/formtastic.rb                                                                              
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/lib/formtastic/i18n.rb                                                                         
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/lib/formtastic/layout_helper.rb                                                                
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/lib/locale/en.yml                                                                              
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/rails/init.rb                                                                                  
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/buttons_spec.rb                                                                           
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/commit_button_spec.rb                                                                     
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/custom_builder_spec.rb                                                                    
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/custom_macros.rb                                                                          
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/defaults_spec.rb                                                                          
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/error_proc_spec.rb                                                                        
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/errors_spec.rb                                                                            
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/form_helper_spec.rb                                                                       
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/i18n_spec.rb                                                                              
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/include_blank_spec.rb                                                                     
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/input_spec.rb                                                                             
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/inputs/boolean_input_spec.rb                                                              
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/inputs/check_boxes_input_spec.rb                                                          
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/inputs/country_input_spec.rb                                                              
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/inputs/date_input_spec.rb                                                                 
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/inputs/datetime_input_spec.rb                                                             
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/inputs/file_input_spec.rb                                                                 
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/inputs/hidden_input_spec.rb                                                               
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/inputs/numeric_input_spec.rb                                                              
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/inputs/password_input_spec.rb                                                             
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/inputs/radio_input_spec.rb                                                                
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/inputs/select_input_spec.rb                                                               
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/inputs/string_input_spec.rb                                                               
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/inputs/text_input_spec.rb                                                                 
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/inputs/time_input_spec.rb                                                                 
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/inputs/time_zone_input_spec.rb                                                            
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/inputs_spec.rb                                                                            
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/label_spec.rb                                                                             
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/layout_helper_spec.rb                                                                     
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/semantic_errors_spec.rb                                                                   
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/semantic_fields_for_spec.rb                                                               
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/spec.opts                                                                                 
+/usr/lib/ruby/gems/1.8/gems/formtastic-0.9.8/spec/spec_helper.rb                                                                            
+
+  ========================================================================
+  Thanks for installing Formtastic!                                       
+  ------------------------------------------------------------------------
+  You can now (optionally) run the generator to copy some stylesheets and 
+  a config initializer into your application:                             
+    ./script/generate formtastic                                          
+
+  To generate some semantic form markup for your existing models, just run:
+    ./script/generate form MODEL_NAME                                      
+
+  Find out more and get involved:
+    http://github.com/justinfrench/formtastic
+    http://groups.google.com.au/group/formtastic
+  ========================================================================
+                                                                          
+Successfully installed formtastic-0.9.8                                   
+GET http://gems.rubyforge.org/quick/Marshal.4.8/rspec-1.3.0.gemspec.rz    
+302 Found                                                                 
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/rspec-1.3.0.gemspec.rz
+200 OK                                                                        
+GET http://gemcutter.org/quick/Marshal.4.8/rspec-1.3.0.gemspec.rz             
+302 Found                                                                     
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/rspec-1.3.0.gemspec.rz
+200 OK                                                                        
+Installing gem rspec-1.3.0                                                    
+Downloading gem rspec-1.3.0.gem                                               
+GET http://gemcutter.org/gems/rspec-1.3.0.gem                                 
+302 Found                                                                     
+GET http://production.cf.rubygems.org/gems/rspec-1.3.0.gem                    
+200 OK                                                                        
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/.document                             
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/History.rdoc                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/License.txt                           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/Manifest.txt                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/README.rdoc                           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/Rakefile                              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/Ruby1.9.rdoc                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/TODO.txt                              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/Upgrade.rdoc                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/bin/autospec                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/bin/spec                              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/cucumber.yml                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/failing/README.txt           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/failing/diffing_spec.rb      
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/failing/failing_implicit_docstrings_example.rb
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/failing/failure_in_after.rb                   
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/failing/failure_in_before.rb                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/failing/mocking_example.rb                    
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/failing/mocking_with_flexmock.rb              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/failing/mocking_with_mocha.rb                 
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/failing/mocking_with_rr.rb                    
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/failing/partial_mock_example.rb               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/failing/pending_example.rb                    
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/failing/predicate_example.rb                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/failing/raising_example.rb                    
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/failing/syntax_error_example.rb               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/failing/team_spec.rb                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/failing/timeout_behaviour.rb                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/custom_formatter.rb                   
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/custom_matchers.rb                    
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/dynamic_spec.rb                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/file_accessor.rb                      
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/file_accessor_spec.rb                 
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/filtered_formatter.rb                 
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/filtered_formatter_example.rb         
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/greeter_spec.rb                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/helper_method_example.rb              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/implicit_docstrings_example.rb        
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/io_processor.rb                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/io_processor_spec.rb                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/mocking_example.rb                    
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/multi_threaded_example_group_runner.rb
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/nested_classes_example.rb             
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/options_example.rb                    
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/options_formatter.rb                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/partial_mock_example.rb               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/pending_example.rb                    
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/predicate_example.rb                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/shared_example_group_example.rb       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/shared_stack_examples.rb              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/simple_matcher_example.rb             
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/stack.rb                              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/stack_spec.rb                         
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/stack_spec_with_nested_example_groups.rb
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/stubbing_example.rb                     
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/passing/yielding_example.rb                     
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/examples/ruby1.9.compatibility/access_to_constants_spec.rb
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/before_and_after_blocks/before_and_after_blocks.feature
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/command_line/line_number_option.feature                
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/command_line/line_number_option_with_example_with_no_name.feature
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/example_groups/define_example_attribute.feature                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/example_groups/example_group_with_should_methods.feature         
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/example_groups/implicit_docstrings.feature                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/example_groups/nested_groups.feature                             
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/expectations/customized_message.feature                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/expectations/expect_change.feature                               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/expectations/expect_error.feature                                
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/extensions/custom_example_group.feature                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/formatters/custom_formatter.feature                              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/formatters/nested_formatter.feature                              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/interop/cucumber_stubs_dont_leak.feature                         
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/interop/examples_and_tests_together.feature                      
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/interop/rspec_output.feature                                     
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/interop/test_but_not_test_unit.feature                           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/interop/test_case_with_should_methods.feature                    
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/load_paths/add_lib_to_load_path.feature                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/load_paths/add_spec_to_load_path.feature                         
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/matchers/define_diffable_matcher.feature                         
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/matchers/define_matcher.feature                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/matchers/define_matcher_outside_rspec.feature                    
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/matchers/define_matcher_with_fluent_interface.feature            
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/matchers/define_wrapped_matcher.feature                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/matchers/match_unless_raises.feature                             
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/matchers/match_unless_raises_unexpected_error.feature            
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/mock_framework_integration/use_flexmock.feature                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/mock_framework_integration/use_mocha.feature                     
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/mock_framework_integration/use_rr.feature                        
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/mocks/block_local_expectations.feature                           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/mocks/mix_stubs_and_mocks.feature                                
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/mocks/stub_implementation.feature                                
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/pending/pending_examples.feature                                 
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/runner/specify_line_number.feature                               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/spec_helper/spec_helper.feature                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/step_definitions/running_rspec_steps.rb                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/step_definitions/stubbing_steps.rb                               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/subject/explicit_subject.feature                                 
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/subject/implicit_subject.feature                                 
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/support/env.rb                                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/features/support/matchers/smart_match.rb                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/geminstaller.yml                                                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/init.rb                                                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/autotest/discover.rb                                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/autotest/rspec.rb                                                     
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec.rb                                                               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/adapters/mock_frameworks/flexmock.rb                             
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/adapters/mock_frameworks/mocha.rb                                
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/adapters/mock_frameworks/rr.rb                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/adapters/mock_frameworks/rspec.rb                                
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/autorun.rb                                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/deprecation.rb                                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/dsl.rb                                                           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/dsl/main.rb                                                      
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/example.rb                                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/example/args_and_options.rb                                      
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/example/before_and_after_hooks.rb                                
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/example/errors.rb                                                
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/example/example_group.rb                                         
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/example/example_group_factory.rb                                 
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/example/example_group_hierarchy.rb                               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/example/example_group_methods.rb                                 
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/example/example_group_proxy.rb                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/example/example_matcher.rb                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/example/example_methods.rb                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/example/example_proxy.rb                                         
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/example/module_reopening_fix.rb                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/example/pending.rb                                               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/example/predicate_matchers.rb                                    
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/example/shared_example_group.rb                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/example/subject.rb                                               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/expectations.rb                                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/expectations/errors.rb                                           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/expectations/extensions.rb                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/expectations/extensions/kernel.rb                                
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/expectations/fail_with.rb                                        
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/expectations/handler.rb                                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/extensions/instance_exec.rb                                      
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/interop/test.rb                                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/interop/test/unit/autorunner.rb                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/interop/test/unit/testcase.rb                                    
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/interop/test/unit/testresult.rb                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/interop/test/unit/testsuite_adapter.rb                           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/interop/test/unit/ui/console/testrunner.rb                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers.rb                                                      
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/be.rb                                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/be_close.rb                                             
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/be_instance_of.rb                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/be_kind_of.rb                                           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/change.rb                                               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/compatibility.rb                                        
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/dsl.rb                                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/eql.rb                                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/equal.rb                                                
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/errors.rb                                               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/exist.rb                                                
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/generated_descriptions.rb                               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/has.rb                                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/have.rb                                                 
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/include.rb                                              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/match.rb                                                
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/match_array.rb                                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/matcher.rb                                              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/method_missing.rb                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/operator_matcher.rb                                     
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/pretty.rb                                               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/raise_exception.rb                                      
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/respond_to.rb                                           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/satisfy.rb                                              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/simple_matcher.rb                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/throw_symbol.rb                                         
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/matchers/wrap_expectation.rb                                     
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/mocks.rb                                                         
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/mocks/argument_expectation.rb                                    
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/mocks/argument_matchers.rb                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/mocks/error_generator.rb                                         
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/mocks/errors.rb                                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/mocks/example_methods.rb                                         
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/mocks/extensions.rb                                              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/mocks/extensions/object.rb                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/mocks/framework.rb                                               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/mocks/message_expectation.rb                                     
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/mocks/methods.rb                                                 
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/mocks/mock.rb                                                    
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/mocks/order_group.rb                                             
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/mocks/proxy.rb                                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/mocks/space.rb                                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/rake/spectask.rb                                                 
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/rake/verify_rcov.rb                                              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/ruby.rb                                                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner.rb                                                        
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/backtrace_tweaker.rb                                      
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/class_and_arguments_parser.rb                             
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/command_line.rb                                           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/configuration.rb                                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/differs/default.rb                                        
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/differs/load-diff-lcs.rb                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/drb_command_line.rb                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/example_group_runner.rb                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/extensions/kernel.rb                                      
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/formatter/base_formatter.rb                               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/formatter/base_text_formatter.rb                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/formatter/failing_example_groups_formatter.rb             
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/formatter/failing_examples_formatter.rb                   
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/formatter/html_formatter.rb                               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/formatter/nested_text_formatter.rb                        
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/formatter/no_op_method_missing.rb                         
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/formatter/profile_formatter.rb                            
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/formatter/progress_bar_formatter.rb                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/formatter/silent_formatter.rb                             
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/formatter/snippet_extractor.rb                            
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/formatter/specdoc_formatter.rb                            
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/formatter/text_mate_formatter.rb                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/heckle_runner.rb                                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/heckle_runner_unsupported.rb                              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/line_number_query.rb                                      
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/option_parser.rb                                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/options.rb                                                
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/runner/reporter.rb                                               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/stubs/cucumber.rb                                                
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/test/unit.rb                                                     
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/lib/spec/version.rb                                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/resources/helpers/cmdline.rb                                              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/resources/rake/examples.rake                                              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/resources/rake/examples_with_rcov.rake                                    
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/resources/rake/failing_examples_with_html.rake                            
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/resources/rake/verify_rcov.rake                                           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/README.jruby                                                         
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/autotest/autotest_helper.rb                                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/autotest/autotest_matchers.rb                                        
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/autotest/discover_spec.rb                                            
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/autotest/failed_results_re_spec.rb                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/autotest/rspec_spec.rb                                               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/ruby_forker.rb                                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec.opts                                                            
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/dsl/main_spec.rb                                                
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/example/example_group_class_definition_spec.rb                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/example/example_group_factory_spec.rb                           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/example/example_group_methods_spec.rb                           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/example/example_group_proxy_spec.rb                             
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/example/example_group_spec.rb                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/example/example_matcher_spec.rb                                 
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/example/example_methods_spec.rb                                 
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/example/example_proxy_spec.rb                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/example/helper_method_spec.rb                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/example/nested_example_group_spec.rb                            
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/example/pending_module_spec.rb                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/example/predicate_matcher_spec.rb                               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/example/shared_example_group_spec.rb                            
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/example/subclassing_example_group_spec.rb                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/example/subject_spec.rb                                         
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/expectations/differs/default_spec.rb                            
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/expectations/extensions/kernel_spec.rb                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/expectations/fail_with_spec.rb                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/expectations/handler_spec.rb                                    
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/expectations/wrap_expectation_spec.rb                           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/interop/test/unit/resources/spec_that_fails.rb                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/interop/test/unit/resources/spec_that_passes.rb                 
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/interop/test/unit/resources/spec_with_errors.rb                 
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/interop/test/unit/resources/spec_with_options_hash.rb           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/interop/test/unit/resources/test_case_that_fails.rb             
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/interop/test/unit/resources/test_case_that_passes.rb            
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/interop/test/unit/resources/test_case_with_errors.rb            
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/interop/test/unit/resources/test_case_with_various_names.rb     
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/interop/test/unit/resources/testsuite_adapter_spec_with_test_unit.rb
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/interop/test/unit/spec_spec.rb                                      
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/interop/test/unit/test_unit_spec_helper.rb                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/interop/test/unit/testcase_spec.rb                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/interop/test/unit/testsuite_adapter_spec.rb                         
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/be_close_spec.rb                                           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/be_instance_of_spec.rb                                     
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/be_kind_of_spec.rb                                         
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/be_spec.rb                                                 
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/change_spec.rb                                             
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/compatibility_spec.rb                                      
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/description_generation_spec.rb                             
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/dsl_spec.rb                                                
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/eql_spec.rb                                                
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/equal_spec.rb                                              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/exist_spec.rb                                              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/has_spec.rb                                                
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/have_spec.rb                                               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/include_spec.rb                                            
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/match_array_spec.rb                                        
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/match_spec.rb                                              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/matcher_spec.rb                                            
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/matchers_spec.rb                                           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/operator_matcher_spec.rb                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/raise_exception_spec.rb                                    
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/respond_to_spec.rb                                         
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/satisfy_spec.rb                                            
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/simple_matcher_spec.rb                                     
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/matchers/throw_symbol_spec.rb                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/and_yield_spec.rb                                             
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/any_number_of_times_spec.rb                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/argument_expectation_spec.rb                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/argument_matchers_spec.rb                                     
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/at_least_spec.rb                                              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/at_most_spec.rb                                               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/bug_report_10260_spec.rb                                      
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/bug_report_10263_spec.rb                                      
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/bug_report_11545_spec.rb                                      
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/bug_report_15719_spec.rb                                      
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/bug_report_496_spec.rb                                        
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/bug_report_600_spec.rb                                        
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/bug_report_7611_spec.rb                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/bug_report_7805_spec.rb                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/bug_report_8165_spec.rb                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/bug_report_8302_spec.rb                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/bug_report_830_spec.rb                                        
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/double_spec.rb                                                
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/failing_argument_matchers_spec.rb                             
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/hash_including_matcher_spec.rb                                
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/hash_not_including_matcher_spec.rb                            
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/mock_ordering_spec.rb                                         
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/mock_space_spec.rb                                            
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/mock_spec.rb                                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/multiple_return_value_spec.rb                                 
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/nil_expectation_warning_spec.rb                               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/null_object_mock_spec.rb                                      
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/once_counts_spec.rb                                           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/options_hash_spec.rb                                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/partial_mock_spec.rb                                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/partial_mock_using_mocks_directly_spec.rb                     
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/passing_argument_matchers_spec.rb                             
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/precise_counts_spec.rb                                        
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/record_messages_spec.rb                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/stub_chain_spec.rb                                            
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/stub_implementation_spec.rb                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/stub_spec.rb                                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/stubbed_message_expectations_spec.rb                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/twice_counts_spec.rb                                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/mocks/unstub_spec.rb                                                
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/package/bin_spec_spec.rb                                            
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/rake/spectask_spec.rb                                               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/class_and_argument_parser_spec.rb                            
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/command_line_spec.rb                                         
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/configuration_spec.rb                                        
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/drb_command_line_spec.rb                                     
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/empty_file.txt                                               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/example_group_runner_spec.rb                                 
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/examples.txt                                                 
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/failed.txt                                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/formatter/base_formatter_spec.rb                             
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/formatter/base_text_formatter_spec.rb                        
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/formatter/failing_example_groups_formatter_spec.rb           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/formatter/failing_examples_formatter_spec.rb                 
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/formatter/html_formatted-1.8.6-jruby.html                    
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/formatter/html_formatted-1.8.6.html                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/formatter/html_formatted-1.8.7.html                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/formatter/html_formatted-1.9.1.html                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/formatter/html_formatter_spec.rb                             
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/formatter/nested_text_formatter_spec.rb                      
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/formatter/profile_formatter_spec.rb                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/formatter/progress_bar_formatter_spec.rb                     
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/formatter/snippet_extractor_spec.rb                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/formatter/specdoc_formatter_spec.rb                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/formatter/text_mate_formatted-1.8.6-jruby.html               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/formatter/text_mate_formatted-1.8.6.html                     
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/formatter/text_mate_formatted-1.8.7.html                     
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/formatter/text_mate_formatted-1.9.1.html                     
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/formatter/text_mate_formatter_spec.rb                        
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/heckle_runner_spec.rb                                        
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/heckler_spec.rb                                              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/line_number_query/line_number_query_fixture.rb               
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/line_number_query_spec.rb                                    
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/noisy_backtrace_tweaker_spec.rb                              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/option_parser_spec.rb                                        
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/options_spec.rb                                              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/output_one_time_fixture.rb                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/output_one_time_fixture_runner.rb                            
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/output_one_time_spec.rb                                      
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/quiet_backtrace_tweaker_spec.rb                              
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/reporter_spec.rb                                             
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/resources/a_bar.rb                                           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/resources/a_foo.rb                                           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/resources/a_spec.rb                                          
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/resources/custom_example_group_runner.rb                     
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/resources/utf8_encoded.rb                                    
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/spec.opts                                                    
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/spec_drb.opts                                                
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner/spec_spaced.opts                                             
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec/runner_spec.rb                                                      
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/spec_helper.rb                                                           
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/support/macros.rb                                                        
+/usr/lib/ruby/gems/1.8/gems/rspec-1.3.0/spec/support/spec_classes.rb                                                  
+/usr/bin/autospec                                                                                                     
+/usr/bin/spec                                                                                                         
+**************************************************                                                                    
+
+  Thank you for installing rspec-1.3.0
+
+  Please be sure to read History.rdoc and Upgrade.rdoc
+  for useful information about this release.          
+
+**************************************************
+Successfully installed rspec-1.3.0                
+GET http://gems.rubyforge.org/quick/Marshal.4.8/rspec-rails-1.3.2.gemspec.rz
+connection reset after 4 requests, retrying                                 
+GET http://gems.rubyforge.org/quick/Marshal.4.8/rspec-rails-1.3.2.gemspec.rz
+302 Found                                                                   
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/rspec-rails-1.3.2.gemspec.rz
+200 OK                                                                              
+GET http://gemcutter.org/quick/Marshal.4.8/rspec-rails-1.3.2.gemspec.rz             
+connection reset after 6 requests, retrying                                         
+GET http://gemcutter.org/quick/Marshal.4.8/rspec-rails-1.3.2.gemspec.rz             
+302 Found                                                                           
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/rspec-rails-1.3.2.gemspec.rz
+200 OK                                                                              
+GET http://gems.rubyforge.org/quick/Marshal.4.8/rspec-1.3.0.gemspec.rz              
+302 Found                                                                           
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/rspec-1.3.0.gemspec.rz      
+200 OK                                                                              
+GET http://gemcutter.org/quick/Marshal.4.8/rspec-1.3.0.gemspec.rz                   
+302 Found                                                                           
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/rspec-1.3.0.gemspec.rz      
+200 OK                                                                              
+GET http://gems.rubyforge.org/quick/Marshal.4.8/rack-1.1.0.gemspec.rz               
+302 Found                                                                           
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/rack-1.1.0.gemspec.rz       
+200 OK                                                                              
+GET http://gemcutter.org/quick/Marshal.4.8/rack-1.1.0.gemspec.rz                    
+302 Found                                                                           
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/rack-1.1.0.gemspec.rz       
+200 OK                                                                              
+Installing gem rspec-rails-1.3.2                                                    
+Downloading gem rspec-rails-1.3.2.gem                                               
+GET http://gemcutter.org/gems/rspec-rails-1.3.2.gem                                 
+302 Found                                                                           
+GET http://production.cf.rubygems.org/gems/rspec-rails-1.3.2.gem                    
+200 OK                                                                              
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/.document                             
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/Contribute.rdoc                       
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/History.rdoc                          
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/License.txt                           
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/Manifest.txt                          
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/README.rdoc                           
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/Rakefile                              
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/TODO.txt                              
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/Upgrade.rdoc                          
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/integration_spec/integration_spec_generator.rb
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/integration_spec/templates/integration_spec.rb
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec/CHANGES                                 
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec/rspec_generator.rb                      
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec/templates/previous_failures.txt         
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec/templates/rcov.opts                     
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec/templates/rspec.rake                    
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec/templates/script/autospec               
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec/templates/script/spec                   
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec/templates/spec.opts                     
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec/templates/spec_helper.rb                
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec_controller/USAGE                        
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec_controller/rspec_controller_generator.rb
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec_controller/templates/controller_spec.rb 
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec_controller/templates/helper_spec.rb     
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec_controller/templates/view_spec.rb       
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec_default_values.rb                       
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec_model/USAGE                             
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec_model/rspec_model_generator.rb          
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec_model/templates/model_spec.rb           
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec_scaffold/rspec_scaffold_generator.rb    
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec_scaffold/templates/controller_spec.rb   
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec_scaffold/templates/edit_erb_spec.rb     
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec_scaffold/templates/helper_spec.rb       
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec_scaffold/templates/index_erb_spec.rb    
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec_scaffold/templates/new_erb_spec.rb      
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec_scaffold/templates/routing_spec.rb      
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/generators/rspec_scaffold/templates/show_erb_spec.rb     
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/init.rb                                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/autotest/discover.rb                                 
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/autotest/rails_rspec.rb                              
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails.rb                                        
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/example.rb                                
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/example/assigns_hash_proxy.rb             
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/example/controller_example_group.rb       
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/example/cookies_proxy.rb                  
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/example/functional_example_group.rb       
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/example/helper_example_group.rb           
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/example/integration_example_group.rb      
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/example/model_example_group.rb            
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/example/render_observer.rb                
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/example/routing_example_group.rb          
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/example/routing_helpers.rb                
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/example/view_example_group.rb             
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/extensions.rb                             
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/extensions/action_controller/rescue.rb    
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/extensions/action_controller/test_case.rb 
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/extensions/action_controller/test_response.rb
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/extensions/action_view/base.rb               
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/extensions/active_record/base.rb             
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/extensions/active_support/test_case.rb       
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/extensions/spec/matchers/have.rb             
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/extensions/spec/runner/configuration.rb      
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/interop/testcase.rb                          
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/matchers.rb                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/matchers/ar_be_valid.rb                      
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/matchers/assert_select.rb                    
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/matchers/change.rb                           
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/matchers/have_text.rb                        
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/matchers/include_text.rb                     
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/matchers/redirect_to.rb                      
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/matchers/render_template.rb                  
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/matchers/route_to.rb                         
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/mocks.rb                                     
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/lib/spec/rails/version.rb                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/autotest/mappings_spec.rb                              
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/rails_suite.rb                                         
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/controllers/action_view_base_spec_controller.rb
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/controllers/application.rb                     
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/controllers/controller_spec_controller.rb      
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/controllers/example.txt                        
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/controllers/redirect_spec_controller.rb        
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/controllers/render_spec_controller.rb          
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/controllers/rjs_spec_controller.rb             
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/helpers/addition_helper.rb                     
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/helpers/explicit_helper.rb                     
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/helpers/more_explicit_helper.rb                
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/helpers/plugin_application_helper.rb           
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/helpers/view_spec_helper.rb                    
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/models/animal.rb                               
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/models/person.rb                               
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/models/thing.rb                                
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/controller_spec/_partial.html.erb        
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/controller_spec/action_setting_flash_after_session_reset.html.erb
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/controller_spec/action_setting_flash_before_session_reset.html.erb
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/controller_spec/action_setting_the_assigns_hash.html.erb          
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/controller_spec/action_with_errors_in_template.html.erb           
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/controller_spec/action_with_template.html.erb                     
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/layouts/application.html.erb                                      
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/layouts/simple.html.erb                                           
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/objects/_object.html.erb                                          
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/render_spec/_a_partial.html.erb                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/render_spec/action_with_alternate_layout.html.erb                 
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/render_spec/some_action.html.erb                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/render_spec/some_action.js.rjs                                    
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/rjs_spec/_replacement_partial.html.erb                            
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/rjs_spec/hide_div.js.rjs                                          
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/rjs_spec/hide_page_element.js.rjs                                 
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/rjs_spec/insert_html.js.rjs                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/rjs_spec/replace.js.rjs                                           
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/rjs_spec/replace_html.js.rjs                                      
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/rjs_spec/replace_html_with_partial.js.rjs                         
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/rjs_spec/visual_effect.js.rjs                                     
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/rjs_spec/visual_toggle_effect.js.rjs                              
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/tag_spec/no_tags.html.erb                                         
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/tag_spec/single_div_with_no_attributes.html.erb                   
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/tag_spec/single_div_with_one_attribute.html.erb                   
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/view_spec/_partial.html.erb                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/view_spec/_partial_used_twice.html.erb                            
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/view_spec/_partial_with_local_variable.html.erb                   
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/view_spec/_partial_with_sub_partial.html.erb                      
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/view_spec/_spacer.html.erb                                        
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/view_spec/accessor.html.erb                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/view_spec/block_helper.html.erb                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/view_spec/entry_form.html.erb                                     
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/view_spec/explicit_helper.html.erb                                
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/view_spec/foo/show.html.erb                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/view_spec/implicit_helper.html.erb                                
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/view_spec/multiple_helpers.html.erb                               
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/view_spec/path_params.html.erb                                    
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/view_spec/should_not_receive.html.erb                             
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/view_spec/template_with_partial.html.erb                          
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/view_spec/template_with_partial_using_collection.html.erb         
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/view_spec/template_with_partial_with_array.html.erb               
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/resources/views/view_spec/view_helpers.html.erb                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/example/assigns_hash_proxy_spec.rb                                     
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/example/configuration_spec.rb                                          
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/example/controller_example_group_spec.rb                               
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/example/controller_isolation_spec.rb                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/example/cookies_proxy_spec.rb                                          
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/example/error_handling_spec.rb                                         
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/example/example_group_factory_spec.rb                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/example/helper_example_group_spec.rb                                   
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/example/model_example_group_spec.rb                                    
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/example/routing_example_group_spec.rb                                  
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/example/shared_routing_example_group_examples.rb                       
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/example/test_unit_assertion_accessibility_spec.rb                      
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/example/view_example_group_spec.rb                                     
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/extensions/action_view_base_spec.rb                                    
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/extensions/active_record_spec.rb                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/interop/testcase_spec.rb                                               
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/matchers/ar_be_valid_spec.rb                                           
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/matchers/assert_select_spec.rb                                         
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/matchers/errors_on_spec.rb                                             
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/matchers/have_text_spec.rb                                             
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/matchers/include_text_spec.rb                                          
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/matchers/redirect_to_spec.rb                                           
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/matchers/render_template_spec.rb                                       
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/matchers/should_change_spec.rb                                         
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/mocks/ar_classes.rb                                                    
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/mocks/mock_model_spec.rb                                               
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/mocks/stub_model_spec.rb                                               
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/sample_modified_fixture.rb                                             
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/sample_spec.rb                                                         
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec/rails/spec_spec.rb                                                           
+/usr/lib/ruby/gems/1.8/gems/rspec-rails-1.3.2/spec/spec_helper.rb                                                                    
+**************************************************                                                                                   
+
+  Thank you for installing rspec-rails-1.3.2
+
+  If you are upgrading, do this in each of your rails apps
+  that you want to upgrade:                               
+
+    $ ruby script/generate rspec
+
+  Please be sure to read History.rdoc and Upgrade.rdoc
+  for useful information about this release.          
+
+**************************************************
+Successfully installed rspec-rails-1.3.2          
+GET http://gems.rubyforge.org/quick/Marshal.4.8/ZenTest-4.3.1.gemspec.rz
+302 Found                                                               
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/ZenTest-4.3.1.gemspec.rz
+200 OK                                                                          
+GET http://gemcutter.org/quick/Marshal.4.8/ZenTest-4.3.1.gemspec.rz             
+302 Found                                                                       
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/ZenTest-4.3.1.gemspec.rz
+200 OK                                                                          
+Installing gem ZenTest-4.3.1                                                    
+Downloading gem ZenTest-4.3.1.gem                                               
+GET http://gemcutter.org/gems/ZenTest-4.3.1.gem                                 
+302 Found                                                                       
+GET http://production.cf.rubygems.org/gems/ZenTest-4.3.1.gem                    
+200 OK                                                                          
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/.autotest                             
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/History.txt                           
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/Manifest.txt                          
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/README.txt                            
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/Rakefile                              
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/articles/Article.css                  
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/articles/getting_started_with_autotest.html
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/articles/how_to_use_zentest.txt            
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/bin/autotest                               
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/bin/multigem                               
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/bin/multiruby                              
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/bin/multiruby_setup                        
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/bin/unit_diff                              
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/bin/zentest                                
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/example.txt                                
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/example1.rb                                
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/example2.rb                                
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/example_dot_autotest.rb                    
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/lib/autotest.rb                            
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/lib/autotest/autoupdate.rb                 
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/lib/autotest/once.rb                       
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/lib/autotest/rcov.rb                       
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/lib/autotest/restart.rb                    
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/lib/autotest/timestamp.rb                  
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/lib/focus.rb                               
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/lib/functional_test_matrix.rb              
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/lib/multiruby.rb                           
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/lib/unit_diff.rb                           
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/lib/zentest.rb                             
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/lib/zentest_mapping.rb                     
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/test/test_autotest.rb                      
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/test/test_focus.rb                         
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/test/test_unit_diff.rb                     
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/test/test_zentest.rb                       
+/usr/lib/ruby/gems/1.8/gems/ZenTest-4.3.1/test/test_zentest_mapping.rb               
+/usr/bin/autotest                                                                    
+/usr/bin/multigem                                                                    
+/usr/bin/multiruby                                                                   
+/usr/bin/multiruby_setup                                                             
+/usr/bin/unit_diff                                                                   
+/usr/bin/zentest                                                                     
+Successfully installed ZenTest-4.3.1                                                 
+GET http://gems.rubyforge.org/quick/Marshal.4.8/russian-0.2.7.gemspec.rz             
+302 Found                                                                            
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/russian-0.2.7.gemspec.rz     
+200 OK                                                                               
+GET http://gemcutter.org/quick/Marshal.4.8/russian-0.2.7.gemspec.rz                  
+302 Found                                                                            
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/russian-0.2.7.gemspec.rz     
+200 OK                                                                               
+Installing gem russian-0.2.7                                                         
+Downloading gem russian-0.2.7.gem                                                    
+GET http://gemcutter.org/gems/russian-0.2.7.gem                                      
+302 Found                                                                            
+GET http://production.cf.rubygems.org/gems/russian-0.2.7.gem                         
+200 OK                                                                               
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/LICENSE                                    
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/README.textile                             
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/Rakefile                                   
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/CHANGELOG                                  
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/TODO                                       
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/init.rb                                    
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/russian/action_view_ext/helpers/date_helper.rb
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/russian/active_record_ext/custom_error_message.rb
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/russian/active_support_ext/parameterize.rb       
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/russian/backend/advanced.rb                      
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/russian/locale/actionview.yml                    
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/russian/locale/activerecord.yml                  
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/russian/locale/activesupport.yml                 
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/russian/locale/datetime.yml                      
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/russian/locale/pluralize.rb                      
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/russian/transliteration.rb                       
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/russian.rb                                       
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/vendor/i18n/i18n.gemspec                         
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/vendor/i18n/lib/i18n/backend/simple.rb           
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/vendor/i18n/lib/i18n/exceptions.rb               
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/vendor/i18n/lib/i18n.rb                          
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/vendor/i18n/MIT-LICENSE                          
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/vendor/i18n/Rakefile                             
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/vendor/i18n/README.textile                       
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/vendor/i18n/test/all.rb                          
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/vendor/i18n/test/i18n_exceptions_test.rb         
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/vendor/i18n/test/i18n_test.rb                    
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/vendor/i18n/test/locale/en.rb                    
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/vendor/i18n/test/locale/en.yml                   
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/vendor/i18n/test/simple_backend_test.rb          
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/vendor/i18n_label/init.rb                        
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/vendor/i18n_label/install.rb                     
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/vendor/i18n_label/lib/i18n_label.rb              
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/vendor/i18n_label/Rakefile                       
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/vendor/i18n_label/README.textile                 
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/vendor/i18n_label/spec/i18n_label_spec.rb        
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/vendor/i18n_label/spec/spec_helper.rb            
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/vendor/i18n_label/tasks/i18n_label_tasks.rake    
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/lib/vendor/i18n_label/uninstall.rb                   
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/spec/fixtures/en.yml                                 
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/spec/fixtures/ru.yml                                 
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/spec/i18n/locale/datetime_spec.rb                    
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/spec/i18n/locale/pluralization_spec.rb               
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/spec/locale_spec.rb                                  
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/spec/russian_spec.rb                                 
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/spec/spec_helper.rb                                  
+/usr/lib/ruby/gems/1.8/gems/russian-0.2.7/spec/transliteration_spec.rb                         
+Successfully installed russian-0.2.7                                                           
+GET http://gems.rubyforge.org/quick/Marshal.4.8/factory_girl-1.2.4.gemspec.rz                  
+302 Found                                                                                      
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/factory_girl-1.2.4.gemspec.rz          
+200 OK                                                                                         
+GET http://gemcutter.org/quick/Marshal.4.8/factory_girl-1.2.4.gemspec.rz                       
+302 Found                                                                                      
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/factory_girl-1.2.4.gemspec.rz          
+200 OK                                                                                         
+Installing gem factory_girl-1.2.4                                                              
+Downloading gem factory_girl-1.2.4.gem                                                         
+GET http://gemcutter.org/gems/factory_girl-1.2.4.gem                                           
+302 Found                                                                                      
+GET http://production.cf.rubygems.org/gems/factory_girl-1.2.4.gem                              
+200 OK                                                                                         
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/CONTRIBUTION_GUIDELINES.rdoc                    
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/Changelog                                       
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/LICENSE                                         
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/README.rdoc                                     
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/Rakefile                                        
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/VERSION                                         
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/lib/factory_girl.rb                             
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/lib/factory_girl/aliases.rb                     
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/lib/factory_girl/attribute.rb                   
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/lib/factory_girl/attribute/association.rb       
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/lib/factory_girl/attribute/callback.rb          
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/lib/factory_girl/attribute/dynamic.rb           
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/lib/factory_girl/attribute/static.rb            
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/lib/factory_girl/factory.rb                     
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/lib/factory_girl/proxy.rb                       
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/lib/factory_girl/proxy/attributes_for.rb        
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/lib/factory_girl/proxy/build.rb                 
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/lib/factory_girl/proxy/create.rb                
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/lib/factory_girl/proxy/stub.rb                  
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/lib/factory_girl/sequence.rb                    
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/lib/factory_girl/step_definitions.rb            
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/lib/factory_girl/syntax.rb                      
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/lib/factory_girl/syntax/blueprint.rb            
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/lib/factory_girl/syntax/generate.rb             
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/lib/factory_girl/syntax/make.rb                 
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/lib/factory_girl/syntax/sham.rb                 
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/spec/factory_girl/aliases_spec.rb               
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/spec/factory_girl/attribute/association_spec.rb 
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/spec/factory_girl/attribute/callback_spec.rb    
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/spec/factory_girl/attribute/dynamic_spec.rb     
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/spec/factory_girl/attribute/static_spec.rb      
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/spec/factory_girl/attribute_spec.rb             
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/spec/factory_girl/factory_spec.rb               
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/spec/factory_girl/proxy/attributes_for_spec.rb  
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/spec/factory_girl/proxy/build_spec.rb           
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/spec/factory_girl/proxy/create_spec.rb          
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/spec/factory_girl/proxy/stub_spec.rb            
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/spec/factory_girl/proxy_spec.rb                 
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/spec/factory_girl/sequence_spec.rb              
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/spec/factory_girl/syntax/blueprint_spec.rb      
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/spec/factory_girl/syntax/generate_spec.rb       
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/spec/factory_girl/syntax/make_spec.rb           
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/spec/factory_girl/syntax/sham_spec.rb           
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/spec/integration_spec.rb                        
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/spec/models.rb                                  
+/usr/lib/ruby/gems/1.8/gems/factory_girl-1.2.4/spec/spec_helper.rb                             
+Successfully installed factory_girl-1.2.4                                                      
+GET http://gems.rubyforge.org/quick/Marshal.4.8/awesome_print-0.2.0.gemspec.rz                 
+302 Found                                                                                      
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/awesome_print-0.2.0.gemspec.rz         
+200 OK                                                                                         
+GET http://gemcutter.org/quick/Marshal.4.8/awesome_print-0.2.0.gemspec.rz                      
+302 Found                                                                                      
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/awesome_print-0.2.0.gemspec.rz         
+200 OK                                                                                         
+Installing gem awesome_print-0.2.0                                                             
+Downloading gem awesome_print-0.2.0.gem                                                        
+GET http://gemcutter.org/gems/awesome_print-0.2.0.gem                                          
+302 Found                                                                                      
+GET http://production.cf.rubygems.org/gems/awesome_print-0.2.0.gem                             
+200 OK                                                                                         
+/usr/lib/ruby/gems/1.8/gems/awesome_print-0.2.0/CHANGELOG                                      
+/usr/lib/ruby/gems/1.8/gems/awesome_print-0.2.0/LICENSE                                        
+/usr/lib/ruby/gems/1.8/gems/awesome_print-0.2.0/README.md                                      
+/usr/lib/ruby/gems/1.8/gems/awesome_print-0.2.0/Rakefile                                       
+/usr/lib/ruby/gems/1.8/gems/awesome_print-0.2.0/VERSION                                        
+/usr/lib/ruby/gems/1.8/gems/awesome_print-0.2.0/init.rb                                        
+/usr/lib/ruby/gems/1.8/gems/awesome_print-0.2.0/lib/ap.rb                                      
+/usr/lib/ruby/gems/1.8/gems/awesome_print-0.2.0/lib/ap/awesome_print.rb                        
+/usr/lib/ruby/gems/1.8/gems/awesome_print-0.2.0/lib/ap/core_ext/kernel.rb                      
+/usr/lib/ruby/gems/1.8/gems/awesome_print-0.2.0/lib/ap/core_ext/logger.rb                      
+/usr/lib/ruby/gems/1.8/gems/awesome_print-0.2.0/lib/ap/core_ext/string.rb                      
+/usr/lib/ruby/gems/1.8/gems/awesome_print-0.2.0/lib/ap/mixin/active_record.rb                  
+/usr/lib/ruby/gems/1.8/gems/awesome_print-0.2.0/lib/ap/mixin/active_support.rb                 
+/usr/lib/ruby/gems/1.8/gems/awesome_print-0.2.0/rails/init.rb                                  
+/usr/lib/ruby/gems/1.8/gems/awesome_print-0.2.0/spec/active_record_spec.rb                     
+/usr/lib/ruby/gems/1.8/gems/awesome_print-0.2.0/spec/awesome_print_spec.rb                     
+/usr/lib/ruby/gems/1.8/gems/awesome_print-0.2.0/spec/logger_spec.rb                            
+/usr/lib/ruby/gems/1.8/gems/awesome_print-0.2.0/spec/spec.opts                                 
+/usr/lib/ruby/gems/1.8/gems/awesome_print-0.2.0/spec/spec_helper.rb                            
+/usr/lib/ruby/gems/1.8/gems/awesome_print-0.2.0/spec/string_spec.rb                            
+Successfully installed awesome_print-0.2.0                                                     
+GET http://gems.rubyforge.org/quick/Marshal.4.8/looksee-0.2.1.gemspec.rz                       
+302 Found                                                                                      
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/looksee-0.2.1.gemspec.rz               
+200 OK                                                                                         
+GET http://gemcutter.org/quick/Marshal.4.8/looksee-0.2.1.gemspec.rz                            
+302 Found                                                                                      
+GET http://production.s3.rubygems.org/quick/Marshal.4.8/looksee-0.2.1.gemspec.rz               
+200 OK                                                                                         
+Installing gem looksee-0.2.1                                                                   
+Downloading gem looksee-0.2.1.gem                                                              
+GET http://gemcutter.org/gems/looksee-0.2.1.gem                                                
+302 Found                                                                                      
+GET http://production.cf.rubygems.org/gems/looksee-0.2.1.gem                                   
+200 OK                                                                                         
+/usr/lib/ruby/gems/1.8/gems/looksee-0.2.1/.autotest                                            
+/usr/lib/ruby/gems/1.8/gems/looksee-0.2.1/History.txt                                          
+/usr/lib/ruby/gems/1.8/gems/looksee-0.2.1/Manifest.txt                                         
+/usr/lib/ruby/gems/1.8/gems/looksee-0.2.1/README.rdoc                                          
+/usr/lib/ruby/gems/1.8/gems/looksee-0.2.1/Rakefile                                             
+/usr/lib/ruby/gems/1.8/gems/looksee-0.2.1/ext/looksee/extconf.rb                               
+/usr/lib/ruby/gems/1.8/gems/looksee-0.2.1/ext/looksee/looksee.c                                
+/usr/lib/ruby/gems/1.8/gems/looksee-0.2.1/ext/looksee/node-1.9.h                               
+/usr/lib/ruby/gems/1.8/gems/looksee-0.2.1/lib/looksee.rb                                       
+/usr/lib/ruby/gems/1.8/gems/looksee-0.2.1/lib/looksee/shortcuts.rb                             
+/usr/lib/ruby/gems/1.8/gems/looksee-0.2.1/lib/looksee/version.rb                               
+/usr/lib/ruby/gems/1.8/gems/looksee-0.2.1/lib/looksee/wirble_compatibility.rb                  
+/usr/lib/ruby/gems/1.8/gems/looksee-0.2.1/looksee.gemspec                                      
+/usr/lib/ruby/gems/1.8/gems/looksee-0.2.1/script/console                                       
+/usr/lib/ruby/gems/1.8/gems/looksee-0.2.1/script/destroy                                       
+/usr/lib/ruby/gems/1.8/gems/looksee-0.2.1/script/generate                                      
+/usr/lib/ruby/gems/1.8/gems/looksee-0.2.1/spec/looksee_spec.rb                                 
+/usr/lib/ruby/gems/1.8/gems/looksee-0.2.1/spec/spec_helper.rb                                  
+/usr/lib/ruby/gems/1.8/gems/looksee-0.2.1/spec/wirble_compatibility_spec.rb                    
+/usr/lib/ruby/gems/1.8/gems/looksee-0.2.1/tasks/extconf.rake                                   
+/usr/lib/ruby/gems/1.8/gems/looksee-0.2.1/tasks/extconf/looksee.rake                           
+Building native extensions.  This could take a while...                                        
+/usr/bin/ruby1.8 extconf.rb                                                                    
+creating Makefile                                                                              
+
+make
+gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I/usr/lib/ruby/1.8/i486-linux -I. -D_FILE_OFFSET_BITS=64  -DRUBY_VERSION=187 -fPIC -fno-strict-aliasing -g -g -O2  -fPIC   -c looksee.c
+gcc -shared -o looksee.so looksee.o -L. -L/usr/lib -L. -Wl,-Bsymbolic-functions -rdynamic -Wl,-export-dynamic    -lruby1.8  -lpthread -lrt -ldl -lcrypt -lm   -lc              
+
+make install
+/usr/bin/install -c -m 0755 looksee.so /usr/lib/ruby/gems/1.8/gems/looksee-0.2.1/lib
+Successfully installed looksee-0.2.1                                                
+Installing gem wirble-0.1.3
+Using local gem /usr/lib/ruby/gems/1.8/cache/wirble-0.1.3.gem
+/usr/lib/ruby/gems/1.8/gems/wirble-0.1.3/_irbrc
+/usr/lib/ruby/gems/1.8/gems/wirble-0.1.3/wirble.gemspec
+/usr/lib/ruby/gems/1.8/gems/wirble-0.1.3/Rakefile
+/usr/lib/ruby/gems/1.8/gems/wirble-0.1.3/setup.rb
+/usr/lib/ruby/gems/1.8/gems/wirble-0.1.3/README
+/usr/lib/ruby/gems/1.8/gems/wirble-0.1.3/lib/wirble.rb
+/usr/lib/ruby/gems/1.8/gems/wirble-0.1.3/ChangeLog
+/usr/lib/ruby/gems/1.8/gems/wirble-0.1.3/COPYING
+Successfully installed wirble-0.1.3
+19 gems installed                                                                   
+Installing ri documentation for rake-0.8.7...                                       
+Installing ri documentation for activesupport-2.3.5...                              
+Installing ri documentation for activerecord-2.3.5...                               
+Installing ri documentation for rack-1.0.1...                                       
+Installing ri documentation for actionpack-2.3.5...                                 
+Installing ri documentation for actionmailer-2.3.5...                               
+Installing ri documentation for activeresource-2.3.5...                             
+Installing ri documentation for rails-2.3.5...                                      
+Installing ri documentation for authlogic-2.1.3...                                  
+Installing ri documentation for haml-3.0.4...                                       
+Installing ri documentation for formtastic-0.9.8...                                 
+Installing ri documentation for rspec-1.3.0...                                      
+Installing ri documentation for rspec-rails-1.3.2...                                
+Installing ri documentation for ZenTest-4.3.1...                                    
+Installing ri documentation for russian-0.2.7...
+Installing ri documentation for factory_girl-1.2.4...
+Installing ri documentation for awesome_print-0.2.0...
+Installing ri documentation for looksee-0.2.1...
+Installing RDoc documentation for rake-0.8.7...
+Installing RDoc documentation for activesupport-2.3.5...
+Installing RDoc documentation for activerecord-2.3.5...
+Installing RDoc documentation for rack-1.0.1...
+Installing RDoc documentation for actionpack-2.3.5...
+Installing RDoc documentation for actionmailer-2.3.5...
+Installing RDoc documentation for activeresource-2.3.5...
+Installing RDoc documentation for rails-2.3.5...
+Installing RDoc documentation for authlogic-2.1.3...
+Installing RDoc documentation for haml-3.0.4...
+Could not find main page README.rdoc
+Could not find main page README.rdoc
+Could not find main page README.rdoc
+Could not find main page README.rdoc
+Installing RDoc documentation for formtastic-0.9.8...
+Installing RDoc documentation for rspec-1.3.0...
+Could not find main page README.rdoc
+Could not find main page README.rdoc
+Could not find main page README.rdoc
+Could not find main page README.rdoc
+Installing RDoc documentation for rspec-rails-1.3.2...
+Could not find main page README.rdoc
+Could not find main page README.rdoc
+Could not find main page README.rdoc
+Could not find main page README.rdoc
+Installing RDoc documentation for ZenTest-4.3.1...
+Installing RDoc documentation for russian-0.2.7...
+Installing RDoc documentation for factory_girl-1.2.4...
+Installing RDoc documentation for awesome_print-0.2.0...
+Installing RDoc documentation for looksee-0.2.1...
+Could not find main page README.rdoc
+Could not find main page README.rdoc
+Could not find main page README.rdoc
+Could not find main page README.rdoc
