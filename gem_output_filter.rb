@@ -5,6 +5,7 @@
 @unpacking = false
 @gemspec = nil
 @doc = nil
+@building = false
 
 def new_line(text, newline_after = false)
   puts unless @newline_put
@@ -26,7 +27,8 @@ end
 
 new_line "Updating gem list"
 
-while (line = gets) do
+$stdout.flush
+while line = gets do
   line.rstrip!
   case line
   when /^GET http:.+\/([^\/]+)\.gemspec\.rz/
@@ -51,11 +53,23 @@ while (line = gets) do
     puts
     put_same line
     puts
-  when /^Successfully/
-    put_same line, true
+  when /^Installing gem/
     puts
+    put_same line
+    @building = false
+  when /^Building native extensions/
+    unless @building
+      put_same line
+    else
+      put_char '.'
+    end
+    @building = true
   when /^\//, /(?:make|gcc|Makefile)/
-    #ignore build messages
+    # build messages
+    put_char '.'
+  when /^\(in \//
+    #make messages (in /some/directory)
+    put_char '.'
   when /^\s*$/
     #ignore empty
   when /^\d{3} [A-Z]/
@@ -67,6 +81,7 @@ while (line = gets) do
     # cistom gems messages
     put_same line
   end
+  $stdout.flush
 end
 
 puts
