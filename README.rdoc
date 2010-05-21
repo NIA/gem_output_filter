@@ -1,0 +1,35 @@
+= Gem Output Filter
+
+Gem Output Filter is a simple script for making <tt>gem install</tt> and <tt>gem update</tt> commands informative, but not excessive.
+
+== The problem
+
+Gem installer is not very talkative. If you want to keep an eye on the process, you may use the <tt>-V</tt> option to make the installer produce verbose output. But in this case your screen will be filled with the information you don't need, like http responce codes etc.
+
+== The decision
+
+This script filters verbose output of installer to leave only necessary information and uses the other information to display a progress of installation.
+
+=== Usage
+
+The script is simple: it reads lines from standard input and writes them to standard output being transformed.
+
+So you can run
+
+    sudo gem install some_gem -V | ./gem_output_filter.rb
+
+or
+    sudo gem update -V | ./gem_output_filter.rb
+
+Or even you can save output to a file and then run the script passing the file to its standard input
+
+=== Requirements
+
+<b>Important:</b> When you try this, you may be disappointed with the fact that the information is printed only after the end of installation, making the script totally useless :) That is because the installer is not adapted for using with pipes, and it doesn't flush it's output. Fortunately, such behaviour can easily be changed
+
+You may patch the source file of rubygems installer (<b>at your own risk!</b>) using the patch.diff file from this repository. Just run
+
+    sudo patch < patch.diff
+
+and enter the full name of user_interaction.rb file in rubygems directory. The full path is given in patch file, but it may be diffent on your machine
+

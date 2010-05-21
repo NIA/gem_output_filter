@@ -1,0 +1,10 @@
+--- /usr/local/lib/site_ruby/1.8/rubygems/user_interaction.rb	2010-05-22 00:51:21.000000000 +0700
++++ /usr/local/lib/site_ruby/1.8/rubygems/user_interaction.rb	2010-05-22 00:51:50.000000000 +0700
+@@ -267,6 +267,7 @@ class Gem::StreamUI
+ 
+   def say(statement="")
+     @outs.puts statement
++    @outs.flush
+   end
+ 
+   ##
