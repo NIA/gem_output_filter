@@ -76,6 +76,8 @@ while line = gets do
     #ignore http status codes
   when /Could not find main page README.rdoc/
     #ignre rdoc errors
+  when /Updating installed gems/
+    #ignore gem update message because it intercepts output
   else
     # installation process messages
     # cistom gems messages
