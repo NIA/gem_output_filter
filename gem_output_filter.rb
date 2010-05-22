@@ -6,7 +6,7 @@
 @gemspec = nil
 @doc = nil
 @building = false
-@started = false
+@updating = false
 
 def new_line(text, newline_after = false)
   puts unless @newline_put
@@ -31,15 +31,14 @@ $stdout.flush
 while line = gets do
   line.rstrip!
 
-  new_line "Updating gem list" unless @started
-  @started = true
-
   case line
   when /^GET http:.+\/([^\/]+)\.gemspec\.rz/
     new_line("Fetching gemspec for #$1") if @gemspec != $1
     @gemspec = $1
     put_char '.'
   when /^GET http:.+/
+    new_line "Updating gem list" unless @updating
+    @updating = true
     put_char '.'
   when /^connection reset/
     put_char ','
