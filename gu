@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo gem update $* -V | ./gem_output_filter.rb
+sudo gem update $* -V | gem_output_filter
