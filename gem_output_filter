@@ -81,6 +81,8 @@ while line = gets do
     #ignre rdoc errors
   when /Updating installed gems/
     #ignore gem update message because it intercepts output
+  when /rdoc /
+    #ignore rdoc messages
   else
     # installation process messages
     # cistom gems messages
